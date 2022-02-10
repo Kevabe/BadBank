@@ -1,0 +1,1 @@
+const UserContext = createContext(null);
